@@ -14,7 +14,7 @@ Mat P;
 
 prediction kalman(vec X,vec Z,Mat P)
 {   
-    //Fixed parameters
+    //Fixed parameters depending upon the problem
 
 Mat F;
 F << 1, 0.1, 0.005,
