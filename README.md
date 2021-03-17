@@ -1,2 +1,2 @@
 # control_basics
-Basic control code
+Basic control codes
